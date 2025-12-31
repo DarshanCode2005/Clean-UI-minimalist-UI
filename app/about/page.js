@@ -2,7 +2,7 @@ import React from 'react'
 
 const AboutPage = () => {
   return (
-    <div className='max-width-4xl mx-auto px-4 py-12'>
+    <div className='max-w-4xl mx-auto px-4 py-12'>
       <div className="text-center mb-12">
         <h1 className="text-4xl font-bold text-gray-800 mb-4">About Us</h1>
         <p className="text-gray-600 text-lg">Learn more about our mission and values.</p>
